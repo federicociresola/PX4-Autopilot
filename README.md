@@ -1,4 +1,4 @@
-# PX4 Drone Autopilot
+![image](https://github.com/user-attachments/assets/177597ac-e8f1-4fc4-b7a0-f32c3f5c8201)# PX4 Drone Autopilot
 
 [![Releases](https://img.shields.io/github/release/PX4/PX4-Autopilot.svg)](https://github.com/PX4/PX4-Autopilot/releases) [![DOI](https://zenodo.org/badge/22634/PX4/PX4-Autopilot.svg)](https://zenodo.org/badge/latestdoi/22634/PX4/PX4-Autopilot)
 
@@ -104,7 +104,7 @@ These boards fully comply with Pixhawk Standard, and are maintained by the PX4-A
 
 These boards are maintained to be compatible with PX4-Autopilot by the Manufacturers.
 
-* [ARK Electronics ARKV6X](https://docs.px4.io/main/en/flight_controller/arkv6x.html)
+* [ARK Electronics ARKV6X](https://docs.px4.io/main/en/flight_controller/ark_v6x.html)
 * [CubePilot Cube Orange+](https://docs.px4.io/main/en/flight_controller/cubepilot_cube_orangeplus.html)
 * [CubePilot Cube Orange](https://docs.px4.io/main/en/flight_controller/cubepilot_cube_orange.html)
 * [CubePilot Cube Yellow](https://docs.px4.io/main/en/flight_controller/cubepilot_cube_yellow.html)
